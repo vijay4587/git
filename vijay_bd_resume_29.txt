@@ -1,0 +1,78 @@
+﻿Vijaya Madhava Rao 
+Hyderabad India | LinkedIn | +917981904587 | vijayravuri269@gmail.com
+
+
+Objective:
+A highly skilled and experienced Python  Developer with a strong background in data processing, analysis and visualization. Seeking a challenging position to leverage my expertise in Python programming and data manipulation to drive innovative solutions and make a significant impact in dynamic organization.
+Summary:
+Results-driven Python Developer with 3.5 years of experience in designing, developing, and deploying data-driven applications. Having basic understanding of data tools and technologies, such as Hadoop, Spark to extract, transform, and load large datasets. Strong expertise in Python programming, data analytics, and visualization using libraries like Pandas, NumPy, Matplotlib, and seaborn. Proven ability to work collaboratively in cross-functional teams and deliver high-quality solutions within strict deadlines.
+Experience:
+Tata Consultancy Services
+Hyderabad,Telangana
+Jan 2020 - Till now
+
+
+* SCB  (Banking)  and LBG(Banking) in TCS
+ Role and Contribution:  Worked as a Python Developer.
+
+
+* Collaborated with a team of developers to design and implement scalable web applications using Python and SQL.
+* collaborative data engineer initiatives on Databricks, optimizing ETL processes for large-scale data engineering projects and deploying machine learning models efficiently using Apache Spark.
+* Worked in a data science project focused on customer complaints, implementing natural language processing to categorize sentiments as positive or negative. Developed an efficient model for extracting personal details from complaint descriptions, optimizing client information retrieval. Demonstrates adept application of analytics for actionable insights in customer service
+* Developed and maintained RESTful APIs for data retrieval and manipulation, adhering to industry best practices and security standards.
+* Designed and implemented database schemas using SQL and NoSQL databases (MongoDB) for efficient data storage and retrieval.
+* Implemented data validation and error handling mechanisms to ensure data integrity and enhance user experience.
+* Integrated third-party APIs and libraries to extend the functionality of web applications.
+* Conducted code reviews and provided feedback to ensure code quality and maintainability.
+* Participated in sprint planning meetings and actively contributed to project estimation and prioritization.
+
+
+* ABB (Automation) in TCS
+ Role and Contribution:  Worked as a Commvault Support Engineer.
+* Provided technical support to customers, addressing and resolving their inquiries related to Commvault software and data management solutions.
+* Troubleshoot and resolve complex issues related to backup failures, storage connectivity, and network configurations, ensuring minimal downtime and maximum system availability.
+* Worked closely with customers to understand their requirements and assist in the design, implementation, and optimization of Commvault backup and recovery solutions.
+* Assisted in the installation, configuration, and maintenance of Commvault software, ensuring adherence to best practices and industry standards.
+* Collaborated with cross-functional teams, including system administrators, storage engineers, and network engineers, to troubleshoot issues and optimize backup and recovery operations.
+* Conducted regular health checks and performance tuning of Commvault environments to ensure optimal system performance and data integrity.
+* Created and maintained detailed documentation, including troubleshooting guides, knowledge base articles, and standard operating procedures.
+* Assisted in testing and evaluating new features, patches, and upgrades of Commvault software in a lab environment.
+* Participated in on-call rotations to provide 24/7 support for critical customer issues.
+
+
+* Walgreens(Marketing) in TCS
+ Role and Contribution:  Worked as aTechnical Support Engineer
+* Provided technical support to customers via phone, email, and remote sessions for various software products.
+* Assisted customers in troubleshooting and resolving issues related to backup and recovery, system performance, and software functionality.
+* Escalated critical issues to senior engineers or development teams, ensuring prompt and effective resolution.
+* Documented customer interactions, including issue details, troubleshooting steps, and resolutions, in a CRM system.
+* Collaborated with cross-functional teams, including sales, engineering, and quality assurance, to resolve customer issues and provide feedback for product improvements.
+* Assisted in creating and updating technical support documentation, including FAQs, knowledge base articles, and troubleshooting guides.
+* Conducted product demos and provided training to customers on the usage and best practices of  Monitoring software.
+* The main function of the project is on migration of backuping of the servers from veeam backup tool to commvault backup tool
+* Implemented sentiment analysis algorithms to gauge customer satisfaction levels in real-time, resulting in a 15% improvement in customer retention rates.
+* Developed and deployed machine learning models for automated categorization and extraction of essential information from documents, reducing manual processing time by 30% and enhancing operational efficiency.
+* Spearheaded the integration of NLP-driven chatbots and virtual assistants to provide 24/7 customer support, resulting in a 20% reduction in customer service response times and increased customer satisfaction.
+* Applied advanced NLP techniques to analyze regulatory texts and compliance documents, ensuring adherence to evolving regulatory requirements and mitigating compliance risks.
+* 
+
+AWARDS :
+TCS: 
+● On Spot Team Award: For Network Automation 
+● Client Appreciation Award: Assisting on REST API Automation Project
+
+
+Skills:
+Programming Languages: Python , SQL, Syntax
+Database Technologies: SQL, NoSQL (MongoDB)
+Data Analytics: Pandas, NumPy, Scikit-learn
+Data Visualization: Matplotlib, seaborn
+Web Technologies: HTML, CSS
+Tools used :commvault,appviewx
+Version Control: Git
+Operating Systems: Linux, Windows
+Problem Solving and Analytical Skills
+Experience: 4  years
+EDUCATION :
+ST.ANN’S COLLEGE OF ENGINEERING AND TECHNOLOGY Chirala Bachelor of Technology in Mechanical Engineering May 2019 
+  CGPA:7.5
